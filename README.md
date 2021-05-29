@@ -31,7 +31,7 @@
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="60">
     </td>
 </tr>
 <tr>
@@ -45,10 +45,10 @@
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="60">
     </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.pngkey.com/png/detail/466-4667821_postgres-logo.png" width="60">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="60">
