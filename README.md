@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bekhzod Akhrorov</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" /> </p>
-<h3 align="center">&lt; $ processing ... &gt;</h3>
- 
-
+<h1 align="center">Hi 👋, I'm Bekhzod Akhrorov  <img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" /></h1>
+<p align="center"> </p>
 
 - 🔭 I’m currently **Full Stack Developer** at **DaliDali**
 
@@ -17,6 +14,8 @@
 
 - 👨‍  **[Check me out](https://bekhzod.web.app/)**
 <h2 align='center'><i>Tech Stack</i></h2>
+
+<h3 align="center">&lt; $ processing ... &gt;</h3>
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -32,21 +31,21 @@
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="60">
+        <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" width="60">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
+        <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
+        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" >
     </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
@@ -63,12 +62,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://www.pngkey.com/png/detail/466-4667821_postgres-logo.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
+        <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="60">
     </td>
 </tr>
+
 </table>
 
   
