@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Bekhzod96)
 
-- 💬 Ask me about **JS, TS, Ruby, Java, C, Python, C#, Dart**
+- 💬 Ask me about **JS, TS, Ruby, Java, C, Python, C#**
 
 - 📫 How to reach me [Bekhzod](https://bekhzod.web.app/)
 
@@ -19,7 +19,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
@@ -28,7 +28,7 @@
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
+        <img src="https://logosvector.net/wp-content/uploads/2013/03/java-eps-vector-logo.png" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="60">
@@ -39,7 +39,7 @@
         <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" >
+        <img src="https://www.wizcase.com/wp-content/uploads/2022/02/Docker-Logo.png" >
     </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
@@ -53,7 +53,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
