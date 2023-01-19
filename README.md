@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bekhzod Akhrorov  <img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" /></h1>
 <p align="center"> </p>
 
-- 🔭 I’m currently **Full Stack Developer** at **DaliDali**
+- 🔭 I’m currently **Full Stack Developer** passionate about learning new technologies
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Bekhzod96)
 
